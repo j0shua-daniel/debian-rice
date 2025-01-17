@@ -18,3 +18,9 @@ cd debian-rice; chmod +x setup.sh
 
 ## Remeber:
 Go to the settings and change the icon theme to windows 8 and the theme to windows 7.
+
+## Wallpaper:
+
+Choose a wallpaper from [here](https://windowswallpaper.miraheze.org/wiki/Windows_7). 
+
+What i used was [this one](https://static.wikitide.net/windowswallpaperwiki/1/1c/CA-wp6.jpg).
