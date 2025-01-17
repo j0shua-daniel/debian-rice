@@ -8,7 +8,8 @@ wget https://github.com/B00merang-Project/Windows-7/archive/refs/tags/2.1.zip
 
 # install
 
-unzip Windows-*
+unzip 2.1.zip
+unzip 1.0.0.zip
 
 sudo mv Windows-7* /usr/share/themes/
 
