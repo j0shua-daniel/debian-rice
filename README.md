@@ -24,3 +24,16 @@ Go to the settings and change the icon theme to windows 8 and the theme to windo
 Choose a wallpaper from [here](https://windowswallpaper.miraheze.org/wiki/Windows_7). 
 
 What i used was [this one](https://static.wikitide.net/windowswallpaperwiki/1/1c/CA-wp6.jpg).
+
+## Terminal icon:
+
+If you want your terminal icon to look the CMD then follow the below steps:
+
+
+Find the line that says "Icon=", and change it to Icon="gnome-terminal"
+
+If using gnome-terminal: `sudo nano /usr/share/applications/org.gnome.Terminal.desktop` 
+
+If using xfce4-terminal: `sudo nano /usr/share/applications/xfce4-terminal.desktop`
+
+
