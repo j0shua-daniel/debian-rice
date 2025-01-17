@@ -13,7 +13,7 @@ unzip 1.0.0.zip
 
 sudo mv Windows-7* /usr/share/themes/
 
-sudo mv windows-8* /usr/share/icons/
+sudo mv Windows-8* /usr/share/icons/
 
 sudo mv MorePerfect* /usr/share/fonts/truetype/
 
