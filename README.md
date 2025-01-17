@@ -1,8 +1,10 @@
-# Fast rice.
+# Windows 7 rice.
 
 ![img](https://github.com/j0shua-daniel/debian-rice/blob/main/1_2025-01-16-170800_1920x1080_scrot.png?raw=true)
 
 Usage:
+
+YOU MUST HAVE CINNAMON DESKTOP INSTALLED. These themes are made only to work well on cinnamon.
 
 ```
 sudo apt install wget unzip 
