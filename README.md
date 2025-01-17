@@ -9,7 +9,9 @@ sudo apt install wget unzip
 ```
 
 ```
-curl -s https://raw.githubusercontent.com/j0shua-daniel/debian-rice/refs/heads/main/setup.sh | bash
+git clone https://github.com/j0shua-daniel/debian-rice
+cd debian-rice; chmod +x setup.sh
+./setup.sh
 ```
 
 ## Remeber:
