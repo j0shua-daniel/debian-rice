@@ -36,4 +36,5 @@ If using gnome-terminal: `sudo nano /usr/share/applications/org.gnome.Terminal.d
 
 If using xfce4-terminal: `sudo nano /usr/share/applications/xfce4-terminal.desktop`
 
+Any issues im happy to help!
 
